@@ -1,5 +1,4 @@
 ## Markdown 说明
-从Typecho中抽离的Markdown编辑器，基于jQuery。
+一款基于jQuery的MarkDown编辑器。
 
-## 示例
-http://www.zi-han.net/case/markdown/
+
